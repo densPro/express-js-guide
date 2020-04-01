@@ -1,0 +1,16 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "it is just a tutorial for use template engines in express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
